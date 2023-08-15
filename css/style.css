@@ -9,6 +9,10 @@ body{
     background-color: white;
 }
 
+i.fa-brands.fa-facebook-f {
+    padding: 13px 17px;
+}
+
 /* navbar */
 
 .topic{
@@ -109,11 +113,15 @@ button {
 }
 
 .services-section .column i{
-    font-size: 51px;
+    font-size: 50px;
     background-color: #ffc800;
-    padding: 30px 34px;
-    border-radius: 55%;
+    padding: 26px 22px;
+    border-radius: 50%;
     color: white;
+}
+
+i.fa-solid.fa-lock { 
+    padding: 25px 29px;
 }
 
 .services-section .column p{
@@ -228,8 +236,8 @@ button {
 }
 
 .team-details i{
-    font-size: 29px;
-    padding: 6px 11px;
+    font-size: 20px;
+    padding: 13px 14px;
     background-color: black;
     color: white;
     border-radius: 50%;
@@ -313,8 +321,8 @@ textarea{
 }
 
 .footer i{
-    font-size: 29px;
-    padding: 6px 11px;
+    font-size: 20px;
+    padding: 13px 14px;
     background-color: black;
     color: white;
     border-radius: 50%;
